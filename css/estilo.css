@@ -1,0 +1,411 @@
+body {
+    background-color: #000
+}
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
+}
+
+.enviosseguro{
+  display: flex;
+  justify-content: center;
+  padding:33px
+}
+
+.contact-clean {
+  font-family: 'EB Garamond', serif;
+
+    background: #ececec;
+    padding: 80px 0
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.pagos{
+margin-left: 250px;
+}
+.enviosss{
+  margin-left: 250px;
+
+
+}
+.sitioseguro{
+  margin-left: 250px;
+
+}
+
+@media (max-width:767px) {
+    .contact-clean {
+        padding: 20px 0
+    }
+}
+
+.contact-clean form {
+    max-width: 480px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 4px;
+    color: #505e6c;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1)
+}
+
+.titnovedades2{
+  display: flex;
+  justify-content: center;
+}
+
+.titnovedades3{
+  display: flex;
+  justify-content: center;
+}
+@media (max-width:767px) {
+    .contact-clean form {
+        padding: 30px
+    }
+}
+
+.container  {
+  font-family: Garamond;
+  font-weight: ;
+  padding:33px
+}
+
+.carta{
+  font-weight:
+  font-size: 17px;;
+}
+
+.card-title{
+  font-size: 21px;
+  font-weight: bolder;
+}
+
+.row{
+  font-size: 15px
+}
+
+.col-sm-12 col-md-6 col-lg-3{
+  font-size: 20px;
+}
+.fotofooter1{
+  display: flex;
+  justify-content: center;
+}
+
+.fotofooter2{
+  display: flex;
+  justify-content: center;
+}
+.contact-clean h2 {
+    margin-top: 5px;
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 36px;
+    color: inherit
+}
+
+.contact-clean .form-group:last-child {
+    margin-bottom: 5px
+}
+
+.contact-clean form .form-control {
+    background: #fff;
+    border-radius: 2px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.05);
+    outline: none;
+    color: inherit;
+    padding-left: 12px;
+    height: 42px
+}
+
+.contact-clean form .form-control:focus {
+    border: 1px solid #b2b2b2
+}
+
+.contact-clean form textarea.form-control {
+    min-height: 100px;
+    max-height: 260px;
+    padding-top: 10px;
+    resize: vertical;
+    resize: none
+}
+
+.contact-clean form .btn {
+    padding: 16px 32px;
+    border: none;
+    background: none;
+    box-shadow: none;
+    text-shadow: none;
+    opacity: 0.9;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: 0.4px;
+    line-height: 1;
+    outline: none !important
+}
+
+.contact-clean form .btn:hover {
+    opacity: 1
+}
+
+.contact-clean form .btn:active {
+    transform: translateY(1px)
+}
+
+.contact-clean form .btn-primary {
+    background-color: #000000;
+    margin-top: 15px;
+    color: #fff
+}
+
+.newsletter-subscribe {
+  color:#313437;
+  background-color:#000;
+  padding:25px;
+}
+
+.newsletter-subscribe p {
+  color:#7d8285;
+  line-height:1.5;
+}
+
+.newsletter-subscribe h2 {
+  font-family: 'EB Garamond', serif;
+  font-size:24px;
+  font-weight:bold;
+  margin-bottom:25px;
+  line-height:1.5;
+  padding-top:0;
+  margin-top:0;
+  color:#fff;
+}
+
+.newsletter-subscribe .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto 25px;
+}
+
+.newsletter-subscribe .intro p {
+  margin-bottom:35px;
+}
+
+.newsletter-subscribe form {
+  justify-content:center;
+}
+
+.newsletter-subscribe form .form-control {
+  background:#eff1f4;
+  border:none;
+  border-radius:3px;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+  text-indent:9px;
+  height:45px;
+  margin-right:10px;
+  min-width:250px;
+}
+.navbar-brand {
+  font-family: Garamond;
+  color: white;
+}
+.navbar-brand li{
+    size:50%;
+}
+.lybria4foto {
+  width:59px;
+  height:59px;
+}
+.lybria3foto{
+  width:75px;
+}
+
+
+.nav-link dropdown-toggle{
+  font-family: Garamond;
+  font-style: white;
+}
+.nav-link{
+  font-family: Garamond;
+font-size: 20px;
+font-style: white;
+
+}
+
+
+.btn btn-dark{
+  padding:8px;
+}
+
+
+
+.nav-link dropdown-toggle{
+  color: #000000;
+
+}
+
+.registro{
+  font-size: 14px;
+}
+
+.newsletter-subscribe form .btn {
+  padding:16px 32px;
+  border:none;
+  background:none;
+  box-shadow:none;
+  text-shadow:none;
+  opacity:0.9;
+  text-transform:uppercase;
+  font-weight:bold;
+  font-size:13px;
+  letter-spacing:0.4px;
+  line-height:1;
+}
+
+.newsletter-subscribe form .btn:hover {
+  opacity:1;
+}
+
+.newsletter-subscribe form .btn:active {
+  transform:translateY(1px);
+}
+
+.newsletter-subscribe form .btn-primary {
+  background-color:#055ada !important;
+  color:#fff;
+  outline:none !important;
+}
+
+
+
+.footer-clean {
+font-family: 'EB Garamond', serif;}
+
+
+
+.footer-clean {
+  padding:50px 0;
+  background-color:#ffffff;
+  color:#000000;
+}
+
+.footer-clean h3 {
+  margin-top:0;
+  margin-bottom:12px;
+  font-weight:bold;
+  font-size:20px;
+}
+
+.footer-clean ul {
+  padding:0;
+  list-style:none;
+  line-height:1.6;
+  font-size:17px;
+  margin-bottom:0;
+}
+
+.footer-clean ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:1;
+}
+
+.footer-clean ul a:hover {
+  opacity:0.9;
+}
+
+.footer-clean .item.social {
+  text-align:right;
+}
+
+@media (max-width:767px) {
+  .footer-clean .item {
+    text-align:center;
+    padding-bottom:20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-clean .item.social {
+    text-align:center;
+  }
+}
+
+.footer-clean .item.social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin-left:10px;
+  margin-top:22px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-clean .item.social > a:hover {
+  opacity:0.9;
+}
+
+@media (max-width:991px) {
+  .footer-clean .item.social > a {
+    margin-top:40px;
+  }
+}
+
+@media (max-width:767px) {
+  .footer-clean .item.social > a {
+    margin-top:10px;
+  }
+}
+
+.mapaferias {
+display:flex;
+justify-content: center;
+padding:10px;
+}
+
+.footer-clean .copyright {
+  margin-top:14px;
+  margin-bottom:0;
+  font-size:13px;
+  opacity:0.6;
+
+}
+.fotofooter1{
+padding: 8px;
+}
+
+.fotofooter2{
+  padding: 8px;
+}
+
+.fotomediosdepago{
+  width:70%;
+  height:70%;
+}
